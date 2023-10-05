@@ -2,6 +2,9 @@
     margin: 0px;
     padding: 0px;
 }
+h1{
+    text-align: center;
+}
 p{
     background-color:aliceblue;
     color:darkslategrey;
